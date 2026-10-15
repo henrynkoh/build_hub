@@ -4,6 +4,8 @@ Build Hub is a static construction-planning website that organizes a residential
 
 Repository: https://github.com/henrynkoh/build_hub
 
+[![Open Build Hub Landing Page](https://img.shields.io/badge/OPEN-LANDING_PAGE-238636?style=for-the-badge&logo=githubpages&logoColor=white)](https://henrynkoh.github.io/build_hub/)
+
 ## Highlights
 
 - 15 construction workflow pages, from site preparation through final punch list
