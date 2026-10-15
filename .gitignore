@@ -1,0 +1,9 @@
+.DS_Store
+pipeline/.venv/
+pipeline/client_secret.json
+pipeline/token.json
+pipeline/state.json
+pipeline/out/
+*.pickle
+__pycache__/
+*.pyc
